@@ -1,0 +1,23 @@
+{
+  "name": "Ijo Wave Dance Company",
+  "slug": "ijo-wave",
+  "concept": "African dance company",
+  "category": "culture-community",
+  "subcategory": "dance-company",
+  "description": "Kinetic site for a Lagos dance company: angled colour blocks, show listings, horizontally scrolling class strip and an audition call.",
+  "design_family": "kinetic-highcolor",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "angled colour-block composition",
+    "horizontal scrolling class strip",
+    "show listing rows",
+    "audition call panel",
+    "stat band",
+    "poster-frame gallery placeholders"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
